@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "806077925611",
+    "firebase_url": "https://blogging-app-flutter.firebaseio.com",
+    "project_id": "blogging-app-flutter",
+    "storage_bucket": "blogging-app-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806077925611:android:da4df73dd0c4b6061896ae",
+        "android_client_info": {
+          "package_name": "com.example.simpleblogingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806077925611-j248rpai4nc5dsmo46gs2lrkipcpf4o7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2QTmXzdehNU3tHMaFgpUBQMg1JvZfsg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806077925611-j248rpai4nc5dsmo46gs2lrkipcpf4o7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
